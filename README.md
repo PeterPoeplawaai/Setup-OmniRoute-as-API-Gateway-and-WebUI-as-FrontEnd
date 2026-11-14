@@ -72,7 +72,7 @@ services:
     environment:
       - PORT=20128
       - NODE_ENV=production
-      - HOSTNAME=0.0.0.0
+      - HOSTNAME=0.0.0.0  #NOTE: if you want to limit access for only your VPN clients, use your local host ip address here!
       - DATA_DIR=/app/data
       - STORAGE_DRIVER=sqlite
       - APP_LOG_TO_FILE=true
