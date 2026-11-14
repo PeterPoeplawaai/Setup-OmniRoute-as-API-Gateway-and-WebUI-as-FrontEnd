@@ -1,5 +1,7 @@
 # OmniRoute & Open WebUI Setup Guide
 
+![OmniRoute Banner](OmniRoute_plus_Open_WebUI.png)
+
 **OmniRoute** is an open-source, high-performance **AI API gateway and router** that acts as a centralized proxy between your applications (or chat frontends like Open WebUI) and various large language model (LLM) providers such as Google Gemini, Groq, OpenAI, and Anthropic.
 
 ### Benefits of OmniRoute
